@@ -1,11 +1,11 @@
-![Logo](https://ik.imagekit.io/l7cwocexhc/crud-flask/crud-flask.png?updatedAt=1706701139280)
+![Logo](https://ik.imagekit.io/l7cwocexhc/crud-flask/api-auth.png?updatedAt=1706996252306)
 
 <h2  align="center">
 
-![Github last commit](https://img.shields.io/github/last-commit/nlnadialigia/auth-api-flask?color=340110&style=plastic)
-![GitHub repo size](https://img.shields.io/github/repo-size/nlnadialigia/auth-api-flask?color=340110&style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/nlnadialigia/auth-api-flask?style=plastic&color=340110)
-[![License](https://img.shields.io/github/license/nlnadialigia/auth-api-flask?color=340110&logoColor=340110&style=plastic)](./LICENSE)
+![Github last commit](https://img.shields.io/github/last-commit/nlnadialigia/auth-api-flask?color=02233f&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/nlnadialigia/auth-api-flask?color=02233f&style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/nlnadialigia/auth-api-flask?style=plastic&color=02233f)
+[![License](https://img.shields.io/github/license/nlnadialigia/auth-api-flask?color=02233f&logoColor=02233f&style=plastic)](./LICENSE)
 
 </h2>
 <p align="center">
@@ -41,7 +41,7 @@ $ git clone git@github.com:nlnadialigia/auth-api-flask.git
 $ cd auth-api-flask
 
 # Instale as dependências
-$ pip install -r requirements.txt
+$ pip install -r requirements.txt --upgrade
 
 # Execute a aplicação em modo de desenvolvimento
 $ python3 app.py
